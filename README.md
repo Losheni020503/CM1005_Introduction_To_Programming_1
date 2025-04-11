@@ -59,7 +59,7 @@ Add gamepad/controller support
 ## 👤 Author
 - Losheni Meenakshi Sundaram
 - Student at University of London, Singapore Institute of Management
-- 📫 Email:losheni.ms@gmail.com
+- 📫 Email: losheni.ms@gmail.com
 
 📄 License
 This project is for academic demonstration and personal use only.
